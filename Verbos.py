@@ -7,6 +7,8 @@
 # suscribete, en tu mismo, quisiera, saltar anuncio, rostro, dejar, permitir, pedir, siguiente, seguir, charlar,
 # , peinar, dale la pena, extrana, raro, lentamente, abrazar, chismear, peinandote
 
+# Reorder the verbs in alphabetical order to prevent duplicates.
+
 verbos = \
     {"bailar": "to dance",
      "cocinar": "to cook",
@@ -40,7 +42,9 @@ verbos = \
      "pedir": "to ask or request",
      "preguntar": "to ask",
      "peinar": "to comb",
-     "dormir": "to sleep"}
+     "dormir": "to sleep",
+     "arreglar": "to fix",
+     "cortar": "to cut"}
 
 def search_verbos():
  key = input("Introduzca una palabra: ")
