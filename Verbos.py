@@ -34,7 +34,8 @@ verbos = \
      "curar": "to cure",
      "abrazar": "to hug",
      "besar": "to kiss",
-     "poner": "to put"}
+     "poner": "to put",
+     "pintar": "to paint"}
 
 def search_verbos():
  key = input("Introduzca una palabra: ")
