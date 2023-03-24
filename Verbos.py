@@ -29,7 +29,7 @@ verbos = \
      "lavarse": "to wash oneself",
      "limpiar": "to clean",
      "cubrir": "to cover",
-     "dejar": "to allow",
+     "dejar": "to allow",dorm
      "seguir": "to follow",
      "curar": "to cure",
      "abrazar": "to hug",
@@ -39,7 +39,8 @@ verbos = \
      "perder": "to lose",
      "pedir": "to ask or request",
      "preguntar": "to ask",
-     "peinar": "to comb"}
+     "peinar": "to comb",
+     "dormir": "to sleep"}
 
 def search_verbos():
  key = input("Introduzca una palabra: ")
