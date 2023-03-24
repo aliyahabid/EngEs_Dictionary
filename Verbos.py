@@ -35,7 +35,11 @@ verbos = \
      "abrazar": "to hug",
      "besar": "to kiss",
      "poner": "to put",
-     "pintar": "to paint"}
+     "pintar": "to paint",
+     "perder": "to lose",
+     "pedir": "to ask or request",
+     "preguntar": "to ask",
+     "peinar": "to comb"}
 
 def search_verbos():
  key = input("Introduzca una palabra: ")
