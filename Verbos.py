@@ -7,7 +7,7 @@
 # suscribete, en tu mismo, quisiera, saltar anuncio, rostro, dejar, permitir, pedir, siguiente, seguir, charlar,
 # , peinar, dale la pena, extrana, raro, lentamente, abrazar, chismear, peinandote
 
-# Reorder the verbs in alphabetical order to prevent duplicates.
+# Spanish to English verb translations
 
 verbos = \
     {"abrazar": "to hug",
@@ -44,17 +44,11 @@ verbos = \
      "tener": "to have",
      "tocar": "to touch or to play (an instrument)",
      "tomar": "to take or to drink",
-     "venir": "to come"}
+     "venir": "to come",
+     "test": "test answer verbos"}
 
-def search_verbos():
- key = input("Introduzca una palabra: ")
- if key in verbos:
-   print("Translation: " + verbos[key])
- else:
-   print("Palabra no encontrada.")
 
-search_verbos()
-
+# English to Spanish verb translations
 verbs = \
     {"calm": "calmar",
      "come": "venir",
@@ -66,4 +60,5 @@ verbs = \
      "have": "tener",
      "iron": "planchar",
      "know": "saber",
-     "meet": "conocer o reuinir"}
+     "meet": "conocer o reuinir",
+     "test": "test answer verbs"}

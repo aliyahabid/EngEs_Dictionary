@@ -8,4 +8,5 @@ frases = {"no te preocupes": "don't worry",
           "que padre": "(MX) that's cool",
           "que vaina": "what a shame",
           "que haces": "what are you doing",
-          "duermes bien": "sleep well"}
+          "duermes bien": "sleep well",
+          "test": "test answer frases"}
