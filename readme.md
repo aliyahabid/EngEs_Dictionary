@@ -8,8 +8,7 @@ The program will not translate sentences, excluding colloquial expressions and c
 
 **Steps**:
 1. Store as many translations as possible in (python) dictionaries distinguished by parts of speech. 
-2. Write code to allow a user to search through the dictionaries to receive appropriate translation(s) 
-regardless of the part of speech after identifying whether functions, conditional statements, loops, and/or 
-other blocks of code are the most effective ways to do so. 
-3. Write code to allow users to find a translation of a word or phrase regardless of capitalization. 
-4. Optional: Write code for a basic window and/or GUI for user input and their results.
+2. Create a file to store a dictionary of words with multiple translations of the same part of speech as lists. 
+3. Write code to allow a user to search through the dictionaries to receive appropriate translation(s) regardless of the part of speech after identifying whether functions, conditional statements, loops, and/or other blocks of code are the most effective ways to do so. 
+4. Write code to allow users to find a translation of a word or phrase regardless of capitalization.
+5. Optional: Write code for a basic window and/or GUI for user input and their results.
